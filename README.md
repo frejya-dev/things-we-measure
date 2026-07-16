@@ -1,6 +1,8 @@
 ## Current Status
 
-Things We Measure is currently in its research and design phase.
+Things We Measure is a long-term body of work exploring how public systems measure human experience, and what those measurements inevitably leave behind.
+
+The work begins with writing, research, interaction design, and visual language before software.
 
 Rather than beginning with code, the project begins with observation, writing, research, and questions. The early work focuses on narrative development, visual exploration, interaction design, and identifying datasets that can support careful interpretation without oversimplifying the people behind them.
 
