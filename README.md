@@ -38,7 +38,9 @@ Things We Measure explores the possibilities of software as an editorial medium.
 
 The interface is part of the argument.
 
-*Work in progress.*
+Things We Measure is intended to evolve slowly through writing, research, visualization, and software.
+
+The project begins with questions rather than conclusions.
 
 ## Author
 
