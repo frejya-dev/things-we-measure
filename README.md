@@ -1,64 +1,42 @@
-# Things We Measure
-
-Things We Measure is an interactive computational essay about housing, uncertainty, and what data leaves behind.
-
-The project explores how public systems measure people, how metrics shape institutional narratives, and what can disappear when complex human experiences are reduced to dashboards.
-
-It is being developed as a series of interactive chapters rather than a traditional data dashboard.
-
-## Central Question
-
-How do we measure a system without reducing the people inside it?
-
-## Working Themes
-
-* Scale and dignity
-* Visibility and stability
-* Urgency and care
-* Accountability and flexibility
-* Speed and healing
-* Prevention as an invisible outcome
-* Data lag and uncertainty
-* The distance between system activity and lived experience
-
 ## Current Status
 
-Research and narrative development.
+Things We Measure is currently in its research and design phase.
 
-This repository is intentionally beginning with writing, structure, and visual planning before application development begins.
-
-## Planned Technologies
-
-* React
-* TypeScript
-* D3
-* SVG
-* Framer Motion
-* Scroll-based storytelling
-* Accessible motion and keyboard controls
-* Responsive design
+Rather than beginning with code, the project starts with questions. The early work focuses on writing, visual exploration, interaction design, and identifying datasets that can support meaningful interpretation without oversimplifying the people behind them.
 
 ## Editorial Principles
 
-* People are not data points or examples.
-* Dignity and care are everyday responsibilities.
-* Do no harm is a baseline responsibility.
-* Uncertainty should be named honestly.
-* Lived experience and quantitative data are complementary.
-* Tone matters, especially in political and institutional spaces.
-* The goal is careful interpretation rather than false certainty.
+Every chapter is guided by a small set of commitments.
 
-## Project Direction
+- People are not data points or examples.
+- Dignity and care are everyday responsibilities.
+- Do no harm is a baseline responsibility.
+- Uncertainty should be named honestly.
+- Lived experience and quantitative data are complementary.
+- Tone matters, especially in political and institutional spaces.
+- The goal is careful interpretation rather than false certainty.
 
-The first version will likely focus on housing and homelessness data through a small number of interactive chapters.
+## Structure
 
-Possible chapters include:
+Things We Measure is organized as a series of interactive essays rather than a traditional dashboard.
 
-* The Dashboard
-* Scale and Dignity
-* Invisible Success
-* Waiting
-* Definitions of Success
+Each chapter explores a different tension within public systems and asks the reader to slow down, observe, and interpret before reaching conclusions.
+
+Early chapters include:
+
+- The Dashboard
+- Scale and Dignity
+- Invisible Success
+- Waiting
+- Definitions of Success
+
+Future chapters may explore other public systems beyond housing, including education, transportation, climate, public health, and the ways we define progress itself.
+
+## About
+
+This project lives at the intersection of frontend development, data visualization, UX, and storytelling.
+
+The interface is part of the argument.
 
 ## Author
 
