@@ -33,3 +33,13 @@ Recovery continues long after institutions record success.
 Stability is not a destination but an ongoing practice. Language can honor complexity without reducing someone to the hardest chapter of their life.
 
 Writing about people carries responsibility. Stories should create understanding rather than serve as evidence for an argument.
+
+## Richard Wright
+
+Extraordinary success does not necessarily mean a system has succeeded.
+
+Individual stories can reveal both possibility and structural failure.
+
+Success should not become evidence that opportunity is widely available.
+
+His writing reminds me that statistics and stories answer different kinds of questions.
